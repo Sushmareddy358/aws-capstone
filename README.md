@@ -7,6 +7,6 @@
 ![QuickSight](https://img.shields.io/badge/AWS-QuickSight-green?logo=amazon-aws)
 ![S3](https://img.shields.io/badge/AWS-S3-green?logo=amazon-aws)
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=amazon-aws)
-This portfolio showcases an AWS Capstone project demonstrating end-to-end data pipeline development with AWS Glue, Athena, Step Functions, and QuickSight.
+This portfolio showcases a Built a scalable ETL pipeline on AWS to process and analyze YouTube trending data. Automated data cataloging and transformation, optimized queries, and delivered QuickSight dashboards for real-time analytics.
 
 🌐 **Live Portfolio:** https://sushmareddy358.github.io/aws-capstone
